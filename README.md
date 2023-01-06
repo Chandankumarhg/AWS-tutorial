@@ -1,9 +1,5 @@
-# Node Hello World
+# AWS tutorial
 
-Simple node.js app that servers "hello world"
+Simple node.js app that servers "Hello this is a NodeJS deployment by CHANDAN KUMAR HG!"
 
-Great for testing simple deployments to the cloud
-
-## Run It
-
-`npm start`
+Hosted at http://ec2-15-206-89-85.ap-south-1.compute.amazonaws.com:3000/
